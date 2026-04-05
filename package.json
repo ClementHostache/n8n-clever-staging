@@ -1,20 +1,20 @@
 {
-    "name": "n8n-clever-cloud",
-    "version": "1.0.0",
-    "description": "n8n on clevercloud",
-    "dependencies": {
-        "n8n": "1.121.3"
-    },
-    "scripts": {
-        "start": "./run.sh"
-    },
-    "author": "Loic Tosser <wowi42>",
-    "license": "ISC",
-    "bugs": {
-        "url": "https://github.com/ClementHostache/n8n-clever/issues"
-    },
-    "homepage": "https://github.com/ClementHostache/n8n-clever#readme",
-    "engines": {
-        "node": "^20"
-    }
+  "name": "n8n-clever-cloud",
+  "version": "1.0.0",
+  "description": "n8n on clevercloud",
+  "dependencies": {
+    "n8n": "2.14.2"
+  },
+  "scripts": {
+    "start": "./run.sh"
+  },
+  "author": "Loic Tosser <wowi42>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ClementHostache/n8n-clever/issues"
+  },
+  "homepage": "https://github.com/ClementHostache/n8n-clever#readme",
+  "engines": {
+    "node": "^20"
+  }
 }
